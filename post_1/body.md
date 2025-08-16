@@ -11,3 +11,4 @@ Another rationale for this aberrant reaction is the fact that the demand for oil
 
 The aforementioned increase in supply of oil through the diversification of its production globally, and the reduced demand for its usages, WTI and Brent reflect reduced volatility and prices. 
 
+# Taimur
