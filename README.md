@@ -5,6 +5,14 @@
 By Taimur Lodhi
 
 ## Latest posts:
+  - [**Quantitative Evidence of Safe-Haven Erosion**](post_12/body.md)
+  - [**A Depletion in Turkey’s Foreign Reserves**](post_11/body.md)
+  - [**The Tariff Whiplash Economy, Part Two: The Clock Runs Out**](post_10/body.md)
+  - [**Brevan Howard’s Star Boy: Minal Bathwal**](post_9/body.md)
+  - [**Venezuela’s Debt Problem**](post_8/body.md)
+  - [**Stock-Bond Correlation and Treasury Term Premia**](post_7/body.md)
+  - [**What’s Happening to the Convenience Yield?**](post_6/body.md)
+  - [**The Components Driving Bond Yields**](post_5/body.md)
   - [**Taking stock of option positioning in Treasuries (2025-07-12)**](post_4/body.md)
   - [**Reflections on Fed Independence (2025-07-02)**](post_3/body.md)
   - [**Jane Street vs SEBI (2025-06-21)**](post_2/body.md)
